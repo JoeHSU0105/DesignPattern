@@ -1,0 +1,9 @@
+D:\WorkArea\program\簡單工廠模式(計算機)\simpleFactory\simpleFactory\bin\Debug\simpleFactory.exe.config
+D:\WorkArea\program\簡單工廠模式(計算機)\simpleFactory\simpleFactory\bin\Debug\simpleFactory.exe
+D:\WorkArea\program\簡單工廠模式(計算機)\simpleFactory\simpleFactory\bin\Debug\simpleFactory.pdb
+D:\WorkArea\program\簡單工廠模式(計算機)\simpleFactory\simpleFactory\obj\Debug\simpleFactory.csprojResolveAssemblyReference.cache
+D:\WorkArea\program\簡單工廠模式(計算機)\simpleFactory\simpleFactory\obj\Debug\simpleFactory.Form1.resources
+D:\WorkArea\program\簡單工廠模式(計算機)\simpleFactory\simpleFactory\obj\Debug\simpleFactory.Properties.Resources.resources
+D:\WorkArea\program\簡單工廠模式(計算機)\simpleFactory\simpleFactory\obj\Debug\simpleFactory.csproj.GenerateResource.Cache
+D:\WorkArea\program\簡單工廠模式(計算機)\simpleFactory\simpleFactory\obj\Debug\simpleFactory.exe
+D:\WorkArea\program\簡單工廠模式(計算機)\simpleFactory\simpleFactory\obj\Debug\simpleFactory.pdb
